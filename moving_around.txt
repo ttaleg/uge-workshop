@@ -1,0 +1,99 @@
+history
+subl moving_around.txt
+history > subl moving_around.txt
+subl 
+subl history
+pwd
+git status
+cd history
+history > my_hist
+histore > my_hist
+history | less
+ls .
+cd ~
+cd VirtualBox\ VMs/
+cd var/lib
+cd lib/var
+cd /var/lib
+cd ../music
+cd ../..
+ls ~
+q
+../
+file1 /..
+touch file2
+touch file1
+cd pwd
+cd home
+home
+clear
+cd /home/docs
+cd/home/docs
+mkdir
+cd dir
+dir
+ls dir
+cd library../
+cd ../../..
+ls
+cd
+cd ..
+mkdir ..
+mkdir -folder
+mkdir\ folder
+makedir my\ folder
+cd /tmp
+cd /temp
+ls home
+man ls
+man
+ls man
+ls -r
+-r
+ls -t
+-
+ls -lt
+ls -l
+cd /
+cd desktop/
+cd code/
+google chrome
+ls | grep sub
+cd Applications/
+cd Desktop/
+subl
+sublime
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'andrewhgelatt@gmail.com'
+git config --global user.name 'Andrew h Gelatt'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+set -gx EDITOR 'subl -w'
+# Sublime Text
+echo $EDITOR
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+brew update
+brew u
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+brew uninstall
+brew help
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+uname
+sudo apt-get install git
+bobemacy01
+sudo apt-git install git
+bobemacy
+find homebrew
+cal 13
+cal
+time
